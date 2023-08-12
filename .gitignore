@@ -1,0 +1,5 @@
+.idea
+*.iml
+target
+/src/test/java/week02/day3/drizzt/
+/src/main/java/labs.md
