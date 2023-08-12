@@ -1,4 +1,4 @@
-package week02.day01;
+package week02.day1;
 
 public class Car {
 
