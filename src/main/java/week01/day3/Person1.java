@@ -1,4 +1,4 @@
-package week01.day03;
+package week01.day3;
 
 public class Person1 {
 
