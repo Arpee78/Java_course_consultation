@@ -1,4 +1,4 @@
-package week01.day05;
+package week01.day5;
 
 public class Rectangle {
 
