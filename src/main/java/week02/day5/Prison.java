@@ -1,7 +1,6 @@
 package week02.day5;
 
 public class Prison {
-
     private boolean[] cells = new boolean[100];
 
     public boolean[] getCells() {
@@ -9,12 +8,10 @@ public class Prison {
     }
 
     public void openFreeCells() {
-        int turn = 0;
-        for (int i = 0; i < 100; i = i + turn + 1) {
-            cells[i] = !cells[i];
-            turn++;
+        for (int day = 1; day <= 100; day++) {
+            for (int cellNr = day; cellNr <= 100; cellNr = cellNr + day ) {
+                cells[cellNr-1] = !cells[cellNr-1];
+            }
         }
-
-
     }
 }

@@ -11,9 +11,10 @@ public class Sultan {
 
         System.out.print("A nyitott cellák sorszámai: ");
 
-        for (int i = 0; i < 100; i++) {
-            if (openCells[i]) {
-                System.out.print(i + 1 + " ");
+        for (int cellNr = 1; cellNr <= 100; cellNr++) {
+
+            if (openCells[cellNr-1]) {
+                System.out.print(cellNr + " ");
             }
         }
 
