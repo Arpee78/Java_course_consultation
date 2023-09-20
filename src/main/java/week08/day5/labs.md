@@ -1,0 +1,1 @@
+Túrázás közben egy GPS eszköz egységes időközönként rögzítjük hogy milyen magasan vagyunk. Írj a `day05.Hiking` osztályba egy `double getPlusElevation(List<Double> heights)` metódust, mely megkapja a magasságok listáját (lebegőpontos lista), és visszaadja összemelkedést amit megtettünk. Azaz pl. 10,20,15,18 esetén 13.(commit:ex-w08d05)
