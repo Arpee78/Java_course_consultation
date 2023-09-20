@@ -1,0 +1,1 @@
+Készíts a `day01` csomagban egy `Lottery` osztályt, melynek két attribútuma az, hogy hány számból kell húzni és mennyit húznak. Legyen egy `startLottery()` metódusa, ami visszaad egy listát amiben annyi véletlen szám van amennyit húzni kell a határnak megfelelően. A sorrendre nem kell figyelni, a lényeg, hogy a számok különbözők legyenek!
