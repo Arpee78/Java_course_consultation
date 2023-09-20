@@ -1,0 +1,1 @@
+Készíts a `Character` osztályban egy olyan metódust ami bemenő paraméterül kap egy szöveget és visszaadja, hogy melyik a leggyakrabban előforduló karakter a szövegben!
