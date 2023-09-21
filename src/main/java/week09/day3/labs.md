@@ -15,6 +15,6 @@ MN5047 Arrival Athens 09:35
 Feladatok:
 1. Olvasd be a fájl tartalmát a memóriába.
 2. Határozd meg, hogy induló vagy érkező járatból volt-e több.
-3. Írj egy metódust ami bekér egy várost és azt, hogy az induló vagy érkező járatokat szeretnénk-e. És egy Listába adjuk viassza az összes abba városba/ból induló/érkező repülőt.
+3. Írj egy metódust ami bekér egy várost és azt, hogy az induló vagy érkező járatokat szeretnénk-e. És egy Listába adjuk vissza az összes abba városba/ból induló/érkező repülőt.
 4. A repülőtéren két kifutó van az egyiken az érkező gépek landolnak a másikon az indulók szálnak fel. Két esemény között legalább 3 percnek el kell telnie.(Két leszállás avgy két felszállás között) Készíts egy metódust ami eldönti, hogy ennek megfelelő-e a mentrend.
 5. A repülőtér 00:00 és 5:00 között zárva tart, írj egy metódust, ami az ebbe az idősávba eső gépeket törli a listából.
