@@ -1,0 +1,3 @@
+Készíts egy `Student` nevű osztályt. Minden tanulónak van egy egyedi azonosítója és egy neve, ezeket konstruktorban állítjuk be. 
+Készíts egy `ClassNoteBook` nevű osztályt, amiben tanuló azonosítókat és a hozzájuk tartozó jegyek listáját tárolod, egy adatszerkezetben. Legyen egy `addStudent(Student student)` metódus amivel új tanulót lehet a naplóhoz adni, de csak id-t adjuk hozzá GDPR miatt. Ekkor a tanulónak még nincsenek jegyei.
+Legyen egy `addMark(int id, int mark)`, ami id alapján jegyet ad a tanulónak.
