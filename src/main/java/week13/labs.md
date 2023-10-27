@@ -1,0 +1,1 @@
+Írj egy metódust, ami paraméterül vár egy angol szöveget és visszaad egy Map-et. A mapben a kulcsok a magánhangzók, azérték pedig az, amennyi van a szövegben. Ha egy magánhangzó nincs a szövegben akkor az ne legyen része a mapnek.
